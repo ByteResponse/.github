@@ -27,16 +27,19 @@ For confidentiality and strategic reasons:
 ---
 ### 🧠 Technologies Used
 
+> We use open-source technologies under their respective licenses.  
+> We are **not affiliated with or endorsed by** any of the vendors, frameworks, or companies listed below.
+
 <table>
   <tr>
     <td align="center" width="140">
       <img src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png" width="40"><br>FastAPI
     </td>
     <td align="center" width="140">
-      <img src="https://avatars.githubusercontent.com/u/97938267?s=200&v=4" width="40"><br>Pydantic
+      <img src="https://avatars.githubusercontent.com/u/97938267?s=200&v=4" width="40"><br>Pydantic v2
     </td>
     <td align="center" width="140">
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/langchain/langchain.png" width="40"><br>LangChain
+      <img src="https://avatars.githubusercontent.com/u/113789570?s=200&v=4" width="40"><br>LangChain
     </td>
     <td align="center" width="140">
       <img src="https://raw.githubusercontent.com/chroma-core/chroma/main/docs/static/logo.svg" width="40"><br>ChromaDB
@@ -47,16 +50,42 @@ For confidentiality and strategic reasons:
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40"><br>PostgreSQL
     </td>
     <td align="center" width="140">
-      <img src="https://avatars.githubusercontent.com/u/78924854?s=200&v=4" width="40"><br>BYOK Design
+      <img src="https://avatars.githubusercontent.com/u/110370326?s=200&v=4" width="40"><br>Ollama (LLaMA3, Mixtral, etc.)
     </td>
     <td align="center" width="140">
-      <img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" width="40"><br>RAG Systems
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"><br>GPT-4o (BYOK)
     </td>
     <td align="center" width="140">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"><br>GPT-4o
+      <img src="https://avatars.githubusercontent.com/u/24036529?s=200&v=4" width="40"><br>Vercel (Frontend)
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="40"><br>TailwindCSS
+    </td>
+    <td align="center" width="140">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40"><br>React 19
+    </td>
+    <td align="center" width="140">
+      <img src="https://avatars.githubusercontent.com/u/109082189?s=200&v=4" width="40"><br>Render (Backend Hosting)
+    </td>
+    <td align="center" width="140">
+      <img src="https://seeklogo.com/images/G/github-actions-logo-031DEE37C4-seeklogo.com.png" width="40"><br>GitHub Actions
     </td>
   </tr>
 </table>
+
+---
+
+🔐 **Architecture Highlights**
+
+- BYOK (Bring Your Own Key) Compliance Design
+- Modular RAG + Encrypted Memory System (Chroma + PostgreSQL)
+- Agentic Execution & CLI-First Developer Tools
+- Runtime Monitoring, Autonomous Testing, Self-Healing Patterns
+- Full-stack built for scale, modularity, and AI-native systems
+
+
 
 
 ---
